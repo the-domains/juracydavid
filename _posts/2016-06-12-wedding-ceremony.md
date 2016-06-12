@@ -1,18 +1,20 @@
 ---
-description: Wedding ceremony
-dateModified: '2016-06-12T18:07:56.518Z'
-datePublished: '2016-06-12T18:08:10.510Z'
-title: ''
+description: >-
+  If the weather does not facilitate an outdoor option then the ceremony will be
+  held in the Sun Room.
+dateModified: '2016-06-12T18:12:53.611Z'
+datePublished: '2016-06-12T22:31:43.023Z'
+title: Wedding ceremony
 author: []
-starred: false
 sourcePath: _posts/2016-06-12-wedding-ceremony.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-Wedding ceremony
+## _**Wedding ceremony**_
 ![The secret Garden Out door option](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21e2730b-4c2f-49b9-9215-2e9444dd5695.jpg)
 
 > Weather dependent the ceremony will be held in the Secret Garden at 2:30pm.
