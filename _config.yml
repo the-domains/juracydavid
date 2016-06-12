@@ -1,14 +1,26 @@
-layout_spectrum: 0.8463767895009369
-typography_spectrum: 0.16110482811927795
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
+  saturation: 0.7293907
   brandStrength: 0.90723443380557
-  lightness: 0.3392440155148506
-  saturation: 0.6277671824209392
-  rhythmicContrast: 0.6393131187651306
+  lightness: 0.339244
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+  rhythmicContrast: 0.6393131
+layout_spectrum: 0.9677419
 name: Juracy&David
