@@ -1,8 +1,8 @@
 ---
 description: The secret Garden Out door option
-dateModified: '2016-06-12T22:54:38.915Z'
-datePublished: '2016-06-12T22:58:28.412Z'
-title: ....Ido.....
+dateModified: '2016-06-12T23:04:23.305Z'
+datePublished: '2016-06-12T23:05:27.984Z'
+title: '....I do, I do, I do....'
 author: []
 sourcePath: _posts/2016-06-12-wedding-ceremony.md
 starred: false
@@ -12,7 +12,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# ....Ido.....
+# ....I do, I do, I do....
 
 ## _**Wedding Ceremony**_
 ![The secret Garden Out door option](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21e2730b-4c2f-49b9-9215-2e9444dd5695.jpg)
