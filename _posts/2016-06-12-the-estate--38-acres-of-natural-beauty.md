@@ -1,7 +1,7 @@
 ---
 description: The Estate ~ 38 Acres of Natural Beauty
-dateModified: '2016-06-12T22:32:06.890Z'
-datePublished: '2016-06-12T22:32:33.539Z'
+dateModified: '2016-06-12T22:38:09.595Z'
+datePublished: '2016-06-12T22:45:57.331Z'
 title: 'The Estate, Exclusively Ours...'
 author: []
 sourcePath: _posts/2016-06-12-the-estate--38-acres-of-natural-beauty.md
