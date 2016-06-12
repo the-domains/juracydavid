@@ -1,7 +1,10 @@
 ---
-description: Bedrooms
-dateModified: '2016-06-12T23:07:41.542Z'
-datePublished: '2016-06-12T23:08:01.136Z'
+description: >-
+  Each room has an open logged fire, furnished with antiques that fit in with
+  modern times but with the traditional comfort and memories of past times and
+  for absolute comfort and luxury it includes:
+dateModified: '2016-06-12T23:14:20.628Z'
+datePublished: '2016-06-12T23:14:42.692Z'
 title: Accommodation
 author: []
 sourcePath: >-
@@ -14,9 +17,9 @@ _type: MediaObject
 
 ---
 # Accommodation
-![Bedrooms](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff192167-9cad-4a39-bc74-fe5f6a9de805.jpg)
+![The bedrooms](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff192167-9cad-4a39-bc74-fe5f6a9de805.jpg)
 
-### Each room has an open logged fire, furnished with antiques that fit in with modern times but with the traditional comfort and memories of past times and for absolute comfort and luxury it includes:
+Each room has an open logged fire, furnished with antiques that fit in with modern times but with the traditional comfort and memories of past times and for absolute comfort and luxury it includes:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3d6c2fb-0373-4574-a9f5-feedb410d6bc.jpg)
 
 * 8 Deluxe Guestrooms with en-suite facilities
