@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.7258065
 color:
   saturation: 0.9677419
   brandStrength: 1
@@ -21,6 +22,5 @@ color:
     - '#E6D4A7'
     - '#825534'
   rhythmicContrast: 0.4551971
-typography_spectrum: 0.7258065
-layout_spectrum: 0.9175627
+layout_spectrum: 0.2401434
 name: Juracy&David
