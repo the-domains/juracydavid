@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-12T22:52:09.839Z'
-datePublished: '2016-06-12T22:58:21.236Z'
+dateModified: '2016-06-12T23:03:56.613Z'
+datePublished: '2016-06-12T23:05:21.091Z'
 title: OurWedding Day Schedule
 author: []
 sourcePath: _posts/2016-06-12-wedding-day-schedule.md
