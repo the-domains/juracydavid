@@ -1,7 +1,7 @@
 ---
 description: Bedrooms
-dateModified: '2016-06-12T22:56:56.730Z'
-datePublished: '2016-06-12T22:58:27.741Z'
+dateModified: '2016-06-12T23:05:27.797Z'
+datePublished: '2016-06-12T23:05:28.587Z'
 title: Accommodation
 author: []
 sourcePath: >-
@@ -31,7 +31,7 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d6fcef-931d-4728-9a31-dcfa448a8cea.jpg)
 
 ## _**The Courtyard Mews**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5462d546-8631-4632-a0ae-b564d9d83800.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f0f93e0330b40fe9c5c48a0257f5d5a1114ee7b.jpg)
 
 ### The Courtyard Mews:The newly renovated 35 deluxe guest rooms in our courtyard, which was stables once upon a time was designed to allow our guests the opportunity to enjoy all the beauty on offer at Boyne Hill Estate for the duration of their stay. Once you drive up our rustic long driveway, nobody wants to leave. We have named our rooms after natural beauties whose determination and winning streak has given them a place in racing history never to be forgotten, also sired by our one and only "Blushing Groom".
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb1ee0ae-86c6-455f-b5e7-73faadd73d0a.jpg)
