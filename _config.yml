@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+typography_spectrum: 0.42797130323015153
 color:
-  saturation: 0.7293907
-  brandStrength: 0.90723443380557
-  lightness: 0.339244
+  saturation: 0.42102220049127936
+  brandStrength: 0.33059925655834377
+  lightness: 0.7802740042097867
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  rhythmicContrast: 0.6393131
-layout_spectrum: 0.9677419
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  rhythmicContrast: 0.21441717143170536
+layout_spectrum: 0.5564363582525402
 name: Juracy&David
