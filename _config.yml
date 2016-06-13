@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.4279713032301515
 color:
   saturation: 0.718638
@@ -22,5 +22,5 @@ color:
     - '#E6D4A7'
     - '#825534'
   lightness: 0.6541219
-layout_spectrum: 0.9426523
+layout_spectrum: 0.1523297
 name: Wedding of Juracy & David
