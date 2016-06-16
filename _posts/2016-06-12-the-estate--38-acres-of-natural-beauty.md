@@ -1,7 +1,7 @@
 ---
 description: The Estate ~ 38 Acres of Natural Beauty
-dateModified: '2016-06-12T23:07:47.341Z'
-datePublished: '2016-06-12T23:07:58.537Z'
+dateModified: '2016-06-16T19:44:48.189Z'
+datePublished: '2016-06-16T19:45:08.104Z'
 title: 'The Estate, Exclusively Ours...'
 author: []
 sourcePath: _posts/2016-06-12-the-estate--38-acres-of-natural-beauty.md
@@ -22,12 +22,13 @@ Boyne Hill Estate is situated on over 38 acres of picturesque rolling parklands 
 
 **The Mansion House, Gardens, & Estate**
 
-Imagine.... sweeping up a tree-lined rustic driveway to your own private estate, your own private residence, exclusive to you.
+> Imagine.... sweeping up a tree-lined rustic driveway to your own private estate, your own private residence, exclusive to you.
 
 Our Georgian Mansion House has been lovingly restored overlooking our beautiful parkland lawn and wooded oasis. Steeped in history, it has everything that you would expect and so much more. It is your residence for the duration of your time with us and our butler is available to cater for all your needs. Dating back to the 1700's it is steeped in history and once viewed you will agree when we say it has its very own warm character and atmosphere. The house has many spectacular features including our underground tunnel, a necessity in the 1700's and one of the very few remaining accessible tunnels amongst many of the beautiful stately homes found in Ireland.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9636ac2f-e807-41ab-96b5-c79995a8ba58.png)
 
-A secret walled garden complete with waterfall, bridge and orchard which explodes in a myriad of colour each season, sheltered by an undisturbed forest. This is the ideal location for any outside event or just a leisurely stroll to explore a haven of natural beauty.
+> A secret walled garden complete with waterfall, bridge and orchard which explodes in a myriad of colour each season, sheltered by an undisturbed forest. This is the ideal location for any outside event or just a leisurely stroll to explore a haven of natural beauty.
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63d4222a-02bb-4bd8-9f9c-d022379a8fac.jpg)
 
 > Boyne Hill House Estate has been as described as a "Hidden Gem", and once you and your partner visit estate you will see why. What makes Boyne Hill House stand out is the attention to detail that is put into every wedding, along with the beauty and tranquillity of its location.
