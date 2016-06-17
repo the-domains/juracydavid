@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.3189131636172533
 color:
   saturation: 0.8350996894296259
   brandStrength: 0.03823572373948991
@@ -21,6 +22,5 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
   lightness: 0.2532398053444922
-typography_spectrum: 0.3189131636172533
-layout_spectrum: 0.281362
+layout_spectrum: 0.4946237
 name: Wedding of Juracy & David
