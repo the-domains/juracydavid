@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Wedding of Juracy & David]]></title>
         <description><![CDATA[Wedding of Juracy & David]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/juracydavid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 16:58:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jul 2016 16:59:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/juracydavid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emmie Reek - One and Only - The Voice of Ireland - Blind Audition - Series 5 Ep2]]></title>
+            <description><![CDATA[<article><h1>Emmie Reek - One and Only - The Voice of Ireland - Blind Audition - Series 5 Ep2</h1><p>Emmie Reek sings Adele's "One and Only" at The Blind Auditions on The Voice of Ireland series 5 episode 2. She joins Team Una 2016. The Voice of Ireland is broadcast on RTÉ One, Sunday nights at 18:30. Visit the official website for more details and videos: http://thevoice.rte.ie/ The Voice of Ireland - Social Media Facebook - http://www.facebook.com/thevoiceofire...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7dfe713c2c959aca8d153dbbfc624716/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FUmrbDdjWVpw%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/UmrbDdjWVpw</link>
+            <guid isPermaLink="false">6d92d8c9-5f95-4501-b71f-4ac903d70c22</guid>
+            <pubDate>Sat, 02 Jul 2016 16:59:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our getaway for the celebration]]></title>
             <description><![CDATA[<article><h1>Our getaway for the celebration</h1><p>A short video of the venue</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62c357bcb2b52265d9d171207c7949e203e32bf1.jpg"></article>]]></description>
