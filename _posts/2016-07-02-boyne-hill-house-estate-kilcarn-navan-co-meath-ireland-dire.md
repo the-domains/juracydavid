@@ -1,9 +1,9 @@
 ---
 description: >-
-  Boyne Hill House EstateKilcarnNavanCo Meath, IrelandDirections to Boyne Hill
-  House
-dateModified: '2016-07-02T17:47:35.007Z'
-datePublished: '2016-07-02T17:47:38.589Z'
+  Boyne Hill House Estate Kilcarn Navan Co Meath, Ireland Directions to Boyne
+  Hill House
+dateModified: '2016-07-02T17:49:11.331Z'
+datePublished: '2016-07-02T17:49:15.157Z'
 title: ''
 author: []
 sourcePath: >-
@@ -31,6 +31,7 @@ Telephone: +353 46 903 1247
 Facsimile: +353 46 903 1146  
 Email: **[info@boynehillhouse.ie][1]**  
 Website: **[www.boynehillhouse.ie][2]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4af83a1-116a-4802-89d1-c63f7a6e352c.jpg)
 
 [0]: http://www.boynehillhouse.ie/directions-to-boyne-hill-house.html
 [1]: mailto:info@boynehillhouse.ie
